@@ -17,7 +17,7 @@ The hand washing posters were generated using the scripts in the repo. The scrip
 
 1. Clone this repo.
 
-2. Create a file in [poster_text](poster_text) for each language that you want to render on a poster. Some examples are included here which illustrate a variety of complex scripts and right-to-left scripts.
+2. Create a file in [poster_text](poster_text) for each language that you want to render on a poster. Some examples are included here which illustrate a variety of complex scripts and right-to-left scripts. Also, add a line to the [poster_elements.csv file](poster_elements.csv) for each language.
 
 3. Render the text with pango:
 
