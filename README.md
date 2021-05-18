@@ -1,4 +1,4 @@
-# Create hand washing posters in local languages
+# Create hand washing posters in low resource languages
 
 Recently, [SIL International](https://www.sil.org/) launched an effort to [translate the phrase "wash your hands" into hundreds of languages](https://www.ethnologue.com/guides/health). Millions of people who speak lesser-known languages don't have a single resource on COVID-19 yet. The information gap is enormous – and lives are at stake.
 
